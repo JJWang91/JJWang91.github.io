@@ -1,0 +1,1 @@
+import{_ as o,a as e}from"./RbElSyy5.js";import{f as _,g as a,o as s,h as c,w as r,b as p}from"#entry";import"./BsKQtVYF.js";const C=_({__name:"new",setup(m){const{t:u}=a();return(i,l)=>{const t=o,n=e;return s(),c(n,null,{default:r(()=>[p(t)]),_:1})}}});export{C as default};
