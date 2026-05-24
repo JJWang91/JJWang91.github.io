@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "assetRoot": "Assets/glb",
-  "generatedFrom": "GLB filenames in Assets/glb",
+  "assetRoot": "assets/glb",
+  "generatedFrom": "GLB filenames in assets/glb",
   "status": "initial filename-based metadata; verify orientation and footprints in Babylon.js before final use",
   "connectionSchema": {
     "directions": ["n", "e", "s", "w"],
